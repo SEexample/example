@@ -2,7 +2,7 @@
 
 int addtion(int a, int b)
 {
-	//addition
+	return a*b
 }
 
 int subtraction(int a, int b)
