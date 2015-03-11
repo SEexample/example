@@ -7,7 +7,8 @@ int addtion(int a, int b)
 
 int subtraction(int a, int b)
 {
-	//subtraction
+	return a+b;
+//subtraction
 }
 
 int multiplication(int a, int b)
